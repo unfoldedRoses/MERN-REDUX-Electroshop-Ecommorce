@@ -2,8 +2,11 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-
-![screenshot](https://github.com/bradtraversy/ElectroShop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+![Screenshot from 2021-05-07 11-38-35](https://user-images.githubusercontent.com/60324608/117572615-54b9c600-b0f1-11eb-85f9-875508609f3f.png)
+![Screenshot from 2021-05-07 11-38-35](https://user-images.githubusercontent.com/60324608/117572631-60a58800-b0f1-11eb-9f2e-ddc3be774852.png)![Screenshot from 2021-05-07 11-39-56](https://user-images.githubusercontent.com/60324608/117572651-731fc180-b0f1-11eb-8e6d-10f568aeeac0.png)
+![Screenshot from 2021-05-07 11-42-29](https://user-images.githubusercontent.com/60324608/117572658-774bdf00-b0f1-11eb-891c-6c221e92e566.png)
+![Screenshot from 2021-05-07 11-43-15](https://user-images.githubusercontent.com/60324608/117572660-79ae3900-b0f1-11eb-980d-3855535f7d47.png)
+![Screenshot from 2021-05-07 11-45-44](https://user-images.githubusercontent.com/60324608/117572663-7ca92980-b0f1-11eb-8373-ad65f2ffc3d7.png)
 
 ## Features
 
@@ -32,6 +35,7 @@ Please do not post issues here that are related to your own code when taking the
 We us ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
 
 Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
+
 
 You can also install and setup Babel if you would like
 
